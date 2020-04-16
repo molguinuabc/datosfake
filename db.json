@@ -97,15 +97,16 @@
     { "id": 1, "title": "Opinion de Juan","userId":1 },
     { "id": 2, "title": "Publicacion de Juana","userId":2},
     { "id": 3, "title": "Opinion de John","userId":3 },
-    { "id": 3, "title": "Publicacion de Jane","userId":4 }
+    { "id": 4, "title": "Publicacion de Jane","userId":4 },
+    { "id": 5, "title": "Otra publicacion de Juan","userId":1 }
   ],
   "comments": [
     { "id": 1, "body": "Comentario 1 sobre post de Juan", "postId": 1 },
     { "id": 2, "body": "Comentario 2 sobre post de Juan", "postId": 1 },
-    { "id": 1, "body": "Comentario 1 sobre post de Juana", "postId": 2 },
-    { "id": 2, "body": "Comentario 1 sobre post de John", "postId": 3 },
-    { "id": 1, "body": "Comentario 2 sobre post de John", "postId": 3 },
-    { "id": 2, "body": "Comentario 1 sobre post de Jane", "postId": 4 }
+    { "id": 3, "body": "Comentario 1 sobre post de Juana", "postId": 2 },
+    { "id": 4, "body": "Comentario 1 sobre post de John", "postId": 3 },
+    { "id": 5, "body": "Comentario 2 sobre post de John", "postId": 3 },
+    { "id": 6, "body": "Comentario 1 sobre post de Jane", "postId": 4 }
   ],
   "profile": {
     "name": "typicode"
