@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Juan Perez",
+      "username": "Juan",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Juanita Perez",
+      "username": "Juanita",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 3,
+      "name": "John Doe",
+      "username": "John",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Jane Doe",
+      "username": "Jane",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    }
+  ],
+  "posts": [
+    { "id": 1, "title": "Opinion de Juan","userId":1 },
+    { "id": 2, "title": "Publicacion de Juana","userId":2},
+    { "id": 3, "title": "Opinion de John","userId":3 },
+    { "id": 3, "title": "Publicacion de Jane","userId":4 }
+  ],
+  "comments": [
+    { "id": 1, "body": "Comentario 1 sobre post de Juan", "postId": 1 },
+    { "id": 2, "body": "Comentario 2 sobre post de Juan", "postId": 1 },
+    { "id": 1, "body": "Comentario 1 sobre post de Juana", "postId": 2 },
+    { "id": 2, "body": "Comentario 1 sobre post de John", "postId": 3 },
+    { "id": 1, "body": "Comentario 2 sobre post de John", "postId": 3 },
+    { "id": 2, "body": "Comentario 1 sobre post de Jane", "postId": 4 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
